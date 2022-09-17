@@ -1,5 +1,5 @@
 # PalGAN: Image Colorization with Palette Generative Adversarial Networks [[Project Page]()]
-by [Yi Wang](https://shepnerd.github.io/), [Menghan Xia](), [Lu Qi](http://luqi.info), [Jing Shao](), [Xiangyu Zhang](), [Yu Qiao]().
+by [Yi Wang](https://shepnerd.github.io/), [Menghan Xia](), [Lu Qi](http://luqi.info), [Jing Shao](), [Yu Qiao]().
 
 ## Introduction
 This repository will release the implementation of our colorization method in ECCV 2022 paper, '[PalGAN: Image Colorization with Palette Generative Adversarial Networks]()'.
